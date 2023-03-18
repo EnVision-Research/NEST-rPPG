@@ -34,6 +34,6 @@ rPPG; domain generalization; domain-label-free approach; NEuron STructure modeli
 ## Contact information
 Hao LU: hlu585@connect.hkust-gz.edu.cn
 
-Copyright © 2023, [Hao LU]([https://suniique.com](https://scholar.google.com/citations?user=OrbGCGkAAAAJ&hl=zh-CN)) [Ying-Cong Chen]([https://cv.ethz.ch/](https://www.yingcong.me/)).
+Copyright © 2023, [Hao LU](https://scholar.google.com/citations?user=OrbGCGkAAAAJ&hl=zh-CN) [Ying-Cong Chen](https://www.yingcong.me/).
 
 
