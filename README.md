@@ -14,6 +14,9 @@ Let's download these data sets:
 [**UBFC**](https://sites.google.com/view/ybenezeth/ubfcrppg), 
 [**PURE**](https://www.tu-ilmenau.de/en/university/departments/department-of-computer-science-and-automation/profile/institutes-and-groups/institute-of-computer-and-systems-engineering/group-for-neuroinformatics-and-cognitive-robotics/data-sets-code/pulse-rate-detection-dataset-pure).
 
+## Data Pre-processing
+We put all the preprocessing in the STMap folder. Examples of VIPL and BUAA are given. See VIPL for data sets with unstable frame rates and BUAA data sets for data sets with stable sampling rates. For details, refer to the Readme.txt file in the folder.
+
 ## Keyworks
 rPPG; domain generalization; domain-label-free approach; NEuron STructure modeling (NEST);agnostic domain generalization.
 
