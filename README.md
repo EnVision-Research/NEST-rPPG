@@ -3,7 +3,7 @@
 This is official repo for  [**NEST-rPPG**](https://arxiv.org/abs/2303.05955):
 
 <div style="text-align:center;">
-  <img src="./Images/Framework.png" style="width:60%;" />
+  <img src="./Images/Framework.png" style="width:70%;" />
 </div>
 
 ## Get dataset
