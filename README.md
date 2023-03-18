@@ -1,4 +1,4 @@
-<h1 align="center"> NEST-rPPG </h1>
+<h1 align="center"> Neuron Structure Modeling for Generalizable Remote Physiological Measurement </h1>
 
 This is official repo for  [**NEST-rPPG**](https://arxiv.org/abs/2303.05955):
 
