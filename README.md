@@ -1,6 +1,6 @@
 <h1 align="center"> NEST-rPPG </h1>
 
-This repo contains codes for NEST-rPPG [**Paper (CVPR 2023)**](https://arxiv.org/abs/2303.05955)
+This official repo for NEST-rPPG [**Paper (CVPR 2023)**](https://arxiv.org/abs/2303.05955)
 
 <div style="text-align:center;">
   <img src="./Images/Framework.png" style="width:60%;" />
