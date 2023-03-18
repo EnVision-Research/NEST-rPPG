@@ -1,7 +1,7 @@
 <h1 align="center"> NEST-rPPG </h1>
 
 This repo contains codes for NEST-rPPG [**Paper (CVPR 2023)**](https://arxiv.org/abs/2303.05955)
-[**VIPL**](http://vipl.ict.ac.cn/en/resources/databases/201901/t20190104_34800.html)
+<img src="Img/Framework.pdf">  
 
 ## Get dataset
 Let's download these data sets:
