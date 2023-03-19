@@ -34,7 +34,7 @@ For VIPL and V4V:
 python Eval.py
 ```
 
-For VIPL and V4V:
+For BUAA, PURE, and UBFC:
 ```
 python dataSort.py  #  save the same video clip to one mat file
 cd ./Eval_BVP
