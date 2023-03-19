@@ -18,7 +18,7 @@ Let's download these data sets:
 We put all the preprocessing in the STMap folder. Examples of VIPL and BUAA are given. See VIPL for data sets with unstable frame rates and BUAA data sets for data sets with stable sampling rates. For details, refer to the Readme.txt file in the folder.
 
 ## Train
-We provide toy data sets that can be run directly with a single command:
+We provide toy datasets (./NEST-rPPG/STMap.zip) that can be run directly with a single command:
 
 ```
 cd ./NEST-rPPG
