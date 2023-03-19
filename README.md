@@ -26,11 +26,22 @@ python train.py -g $gpu_ids$ -t 'VIPL'
 ```
 
 ## Eval
+We use the heart rate estimator of network to evalate the VIPL and V4V datasets. 
+We use the BVP signal estimator of network to evalate the BUAA, PURE, and UBFC-rPPG.
 
+For VIPL and V4V:
 ```
-...
+python Eval.py
 ```
- 
+
+For VIPL and V4V:
+```
+python dataSort.py  #  save the same video clip to one mat file
+cd ./Eval_BVP
+run main.m
+```
+
+
 ## Keyworks
 rPPG; domain generalization; domain-label-free approach; NEuron STructure modeling (NEST);agnostic domain generalization.
 
