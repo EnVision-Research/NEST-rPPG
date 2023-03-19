@@ -38,9 +38,8 @@ For VIPL and V4V:
 ```
 python dataSort.py  #  save the same video clip to one mat file
 cd ./Eval_BVP
-run main.m
+run main.m    #  caculate the HR, HRV(LF,HF), and RF for evaluation
 ```
-
 
 ## Keyworks
 rPPG; domain generalization; domain-label-free approach; NEuron STructure modeling (NEST);agnostic domain generalization.
