@@ -24,6 +24,12 @@ We provide toy data sets that can be run directly with a single command:
 cd ./NEST-rPPG
 python train.py -g $gpu_ids$ -t 'VIPL'
 ```
+
+## Eval
+
+```
+...
+```
  
 ## Keyworks
 rPPG; domain generalization; domain-label-free approach; NEuron STructure modeling (NEST);agnostic domain generalization.
