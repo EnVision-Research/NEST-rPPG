@@ -42,7 +42,7 @@ run main.m    #  use matlab to caculate the HR, HRV(LF,HF), and RF for evaluatio
 ```
 
 ## Keyworks
-rPPG; domain generalization; domain-label-free approach; NEuron STructure modeling (NEST);agnostic domain generalization.
+rPPG; remote heart rate measurement; domain generalization; domain-label-free approach; NEuron STructure modeling (NEST);agnostic domain generalization.
 
 
 ## Citation
