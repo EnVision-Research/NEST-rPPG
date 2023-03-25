@@ -1,7 +1,7 @@
 <h1 align="center"> Neuron Structure Modeling for Generalizable Remote Physiological Measurement </h1>
 
 This is official repo for  [**NEST-rPPG**](https://arxiv.org/abs/2303.05955):
-
+A large-scale domain generalization beachmark for rPPG task.
 <div style="text-align:center;">
   <img src="./Images/Framework.png" style="width:70%;" />
 </div>
