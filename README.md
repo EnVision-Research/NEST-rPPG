@@ -42,8 +42,8 @@ python Eval.py
 For BUAA, PURE, and UBFC:
 ```
 python dataSort.py  #  save the same video clip to one mat file
-cd ./Eval_BVP
-run main.m    #  use matlab to caculate the HR, HRV(LF,HF), and RF for evaluation
+cd ./Eval_from_BVP 
+run Test.m    #  use matlab to caculate the HR, HRV(LF,HF), and RF for evaluation
 ```
 
 ## Keyworks
