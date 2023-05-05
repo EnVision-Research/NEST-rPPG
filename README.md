@@ -62,7 +62,9 @@ rPPG; remote heart rate measurement; domain generalization; domain-label-free ap
 
 ## Contact information
 E-mail: hlu585@connect.hkust-gz.edu.cn
+
 Email is very easy to be considered spam, so you can also send me another email address: 906222212@qq.com
+
 Copyright © 2023, [Hao LU](https://scholar.google.com/citations?user=OrbGCGkAAAAJ&hl=zh-CN), [Ying-Cong Chen](https://www.yingcong.me/), [DV Lab](https://www.dvlab.ai/).
 
 
