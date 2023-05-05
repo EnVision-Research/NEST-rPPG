@@ -62,6 +62,7 @@ rPPG; remote heart rate measurement; domain generalization; domain-label-free ap
 
 ## Contact information
 E-mail: hlu585@connect.hkust-gz.edu.cn
+
 Copyright © 2023, [Hao LU](https://scholar.google.com/citations?user=OrbGCGkAAAAJ&hl=zh-CN), [Ying-Cong Chen](https://www.yingcong.me/), [DV Lab](https://www.dvlab.ai/).
 
 
