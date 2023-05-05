@@ -6,7 +6,7 @@ This is official repo for  [**NEST-rPPG**](https://arxiv.org/abs/2303.05955):
   <img src="./Images/Framework.png" style="width:70%;" />
 </div>
 
-A large-scale domain generalization beachmark for rPPG task.
+The first large-scale domain generalization beachmark for rPPG task.
 
 Very easy to run and enjoy it.
 
