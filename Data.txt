@@ -2,3 +2,6 @@ IP：111.230.64.2
 ID：NEST
 Code：dvlab2023+++
 Data Path: /home/NEST/STMap.zip
+
+please use ssh:
+ssh NEST@dvlab2023+++
