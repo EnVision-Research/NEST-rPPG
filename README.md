@@ -29,7 +29,7 @@ cd ./NEST-rPPG
 python train.py -g $gpu_ids$ -t 'VIPL'
 ```
 
-If you want get all well-processed STMap and groud truth label from five datesets, feel free to email me.
+If you want get all [well-processed STMap and groud truth label](Data.txt) from five datesets, feel free to email me.
 ## Eval
 We use the heart rate estimator of network to evalate the VIPL and V4V datasets. 
 We use the BVP signal estimator of network to evalate the BUAA, PURE, and UBFC-rPPG.
