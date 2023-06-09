@@ -5,3 +5,4 @@ Data Path: /home/NEST/STMap.zip
 
 please use ssh:
 ssh NEST@111.230.64.2
+scp /home/NEST/STMap.zip xxx@xxxx:/xxxx/xxxx
