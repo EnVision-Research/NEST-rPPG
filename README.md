@@ -1,6 +1,6 @@
 <h1 align="center"> Neuron Structure Modeling for Generalizable Remote Physiological Measurement </h1>
 
-This is official repo for  [**NEST-rPPG**](https://arxiv.org/abs/2303.05955):
+This is official repo for  [**NEST-rPPG**](https://openaccess.thecvf.com/content/CVPR2023/html/Lu_Neuron_Structure_Modeling_for_Generalizable_Remote_Physiological_Measurement_CVPR_2023_paper.html):
 
 <div style="text-align:center;">
   <img src="./Images/Framework.png" style="width:70%;" />
