@@ -20,7 +20,7 @@ Let's download these data sets:
 
 $\color{red}{Please\ request\ permission\ for\ all\ datasets, not\ for\ commercial\ products.}$
 ## Data Pre-processing
-We put all the preprocessing in the STMap folder. Examples of VIPL and BUAA are given. See VIPL for data sets with unstable frame rates and BUAA data sets for data sets with stable sampling rates. For details, refer to the Readme.txt file in the folder. [Well-precessed STMap and Labels](Data.txt) for your convenience. 
+We put all the preprocessing in the STMap folder. Examples of VIPL and BUAA are given. See VIPL for data sets with unstable frame rates and BUAA data sets for data sets with stable sampling rates. For details, refer to the Readme.txt file in the folder. [All well-precessed STMap and Labels](Data.txt) for your convenience. 
 
 $\color{red}{Please\ request\ permission\ for\ all\ datasets, not\ for\ commercial\ products.}$
 ## Train
@@ -31,7 +31,7 @@ cd ./NEST-rPPG
 python train.py -g $gpu_ids$ -t 'VIPL'
 ```
 
-If you want get all [well-processed STMap and groud truth label](Data.txt) from five datesets, feel free to email me.
+All [well-processed STMap and groud truth label](Data.txt) for your convenience. 
 ## Eval
 We use the heart rate estimator of network to evalate the VIPL and V4V datasets. 
 We use the BVP signal estimator of network to evalate the BUAA, PURE, and UBFC-rPPG.
