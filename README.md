@@ -54,11 +54,13 @@ rPPG; remote heart rate measurement; domain generalization; domain-label-free ap
 
 ## Citation
 ```
-@InProceedings{lu2023NEST,
-  title={Neuron Structure Modeling for Generalizable Remote Physiological Measurement},
-  author={Lu, Hao and Yu, Zitong and Niu, Xuesong and Chen, Yingcong},
-  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-  year={2023}
+@InProceedings{Lu_2023_CVPR,
+    author    = {Lu, Hao and Yu, Zitong and Niu, Xuesong and Chen, Ying-Cong},
+    title     = {Neuron Structure Modeling for Generalizable Remote Physiological Measurement},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2023},
+    pages     = {18589-18599}
 }
 ```
 
