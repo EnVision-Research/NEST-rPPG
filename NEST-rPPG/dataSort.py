@@ -52,8 +52,4 @@ for HR_index in range(pr.shape[0]):
         pr_temp.append(pr[HR_index, :])
         gt_temp.append(gt[HR_index, :])
     lastPath = nowPath
-io.savemat('gt_ps.mat', {'HR': gt_ps})
-io.savemat('pr_ps.mat', {'HR': pr_ps})
-io.savemat('HR_rel.mat', {'HR': gt_av})
-io.savemat('HR_pr.mat', {'HR': pr_av})
-MyEval(gt_av, pr_av)
+
