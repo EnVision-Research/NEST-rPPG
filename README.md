@@ -64,6 +64,15 @@ rPPG; remote heart rate measurement; domain generalization; domain-label-free ap
     year      = {2023},
     pages     = {18589-18599}
 }
+
+@inproceedings{Sun_2023_DOHA,
+author = {Sun, Weiyu and Zhang, Xinyu and Lu, Hao and Chen, Ying and Ge, Yun and Huang, Xiaolin and Yuan, Jie and Chen, Yingcong},
+title = {Resolve Domain Conflicts for Generalizable Remote Physiological Measurement},
+booktitle = {Proceedings of the 31st ACM International Conference on Multimedia},
+year      = {2023},
+pages = {8214–8224}
+}
+
 ```
 
 ## Contact information
