@@ -20,11 +20,9 @@ Let's download these data sets:
 
 [All well-precessed STMap and Labels](Data.txt) for your convenience. 
 
-$\color{red}{Please\ request\ permission\ for\ all\ datasets, not\ for\ commercial\ products.}$
 ## Data Pre-processing
 We put all the preprocessing in the STMap folder. Examples of VIPL and BUAA are given. See VIPL for data sets with unstable frame rates and BUAA data sets for data sets with stable sampling rates. For details, refer to the Readme.txt file in the folder. [All well-precessed STMap and Labels](Data.txt) for your convenience. 
 
-$\color{red}{Please\ request\ permission\ for\ all\ datasets, not\ for\ commercial\ products.}$
 ## Train
 We provide toy datasets (./NEST-rPPG/STMap.zip) that can be run directly with a single command:
 
