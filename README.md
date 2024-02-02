@@ -76,6 +76,6 @@ pages = {8214–8224}
 ## Contact information
 E-mail: hlu585@connect.hkust-gz.edu.cn
 
-Copyright © 2023, [Hao LU](https://scholar.google.com/citations?user=OrbGCGkAAAAJ&hl=zh-CN), [Ying-Cong Chen](https://www.yingcong.me/), [DV Lab](https://www.dvlab.ai/).
+Copyright © 2023, [Hao LU](https://scholar.google.com/citations?user=OrbGCGkAAAAJ&hl=zh-CN).
 
 
